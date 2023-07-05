@@ -67,6 +67,7 @@ h3{
     text-align: center;
     flex: 1;
     transition: 0.3s ease;
+    visibility: hidden;
 }
 .remained span{
     font-size: 20px;
